@@ -14,6 +14,8 @@ return {
         -- install language servers
         "lua-language-server",
         "typescript-language-server",
+        "python-lsp-server",
+
         -- install formatters
         "stylua",
 
